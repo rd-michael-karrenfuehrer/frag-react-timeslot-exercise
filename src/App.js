@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
 
+import slots from './data/slots.json';
+
 class App extends Component {
   render() {
     return (
