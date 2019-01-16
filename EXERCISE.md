@@ -14,25 +14,18 @@ Enter `npm test` to run the test watcher.
 
 ### Tasks
 
-The following tasks can be tackled indidivually once task 1a) has been solved.
+The following tasks can be tackled individually once task 1a) has been solved.
 
-#### 1) List of slots
+#### 1) Display and filter slots
 
 a) Display a **plain list** of all timeslots with `startTime`, `endTime`, `zipCode`, `price` and `bookable`.
 
 b) **Sort** the list chronologically by startTime.
 
-c) **Group** the slot list **by zip code**.
+c) Add an input field where the user can **filter the list by zip code**. Filtering should happen immediately as the 
+user types.
 
-#### 2) Filtering
-
-a) Add an input field where the user can **filter the list by zip code**. Filtering should happen immediately as the user types.
-
-b) Add a checkbox allowing the user to display **only bookable slots**
-
-c) Add an input field where the user can specify the **maximum price** of the slots to be displayed. (Empty = all slots)
-
-#### 3) Styling
+#### 3) Style slots
 
 a) Display each slot as a 200x80 px sized **rectangular shape** with only start & end time and price in it (similar to the visualization in our [REWE Shop](https://shop.rewe.de)).
 
