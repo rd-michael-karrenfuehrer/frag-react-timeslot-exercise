@@ -20,7 +20,7 @@ The following tasks can be tackled indidivually once task 1a) has been solved.
 
 a) Display a **plain list** of all timeslots with `startTime`, `endTime`, `zipCode`, `price` and `bookable`.
 
-b) **Sort** the list chronologically by date and startTime.
+b) **Sort** the list chronologically by startTime.
 
 c) **Group** the slot list **by zip code**.
 
