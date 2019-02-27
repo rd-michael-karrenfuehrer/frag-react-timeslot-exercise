@@ -14,7 +14,7 @@ Enter `npm test` to run the test watcher.
 
 ### Tasks
 
-The following tasks can be tackled indidivually once task 1a) has been solved.
+Solve 1a) first. All other tasks may be tackled individually.
 
 #### 1) List of slots
 
@@ -22,25 +22,21 @@ a) Display a **plain list** of all timeslots with `startTime`, `endTime`, `zipCo
 
 b) **Sort** the list chronologically by startTime.
 
-c) **Group** the slot list **by zip code**.
-
-#### 2) Filtering
+#### 2) Filtering & Interaction
 
 a) Add an input field where the user can **filter the list by zip code**. Filtering should happen immediately as the user types.
 
-b) Add a checkbox allowing the user to display **only bookable slots**
-
-c) Add an input field where the user can specify the **maximum price** of the slots to be displayed. (Empty = all slots)
+b) Add the possibility to **toggle the bookability** of a slot by clicking on it.
 
 #### 3) Styling
 
-a) Display each slot as a 200x80 px sized **rectangular shape** with only start & end time and price in it (similar to the visualization in our [REWE Shop](https://shop.rewe.de)).
+a) Display each slot as a 200x80 px sized **rectangular shape** with start & end times and price in it (similar to 
+the visualization in our [REWE Shop](https://shop.rewe.de)). **Non-bookable slots** should instead contain a text 
+"Ausgebucht".
 
 b) **Arrange** the slots **horizontally** (next to each other). Make them break into the next row if the viewport is too narrow.
 
 c) Give each slot a fixed **height based on their duration**. 1hr = 100px.
-
-d) Display **non-bookable slots** greyed-out with an "Ausgebucht" text in it.
 
 ### Hints
 
@@ -48,7 +44,7 @@ Make use of [date-fns](https://date-fns.org/docs) functions to easier deal with 
 
 ### Methodology
 
-Solve the tasks using...
+Try to solve the tasks using...
 
-* 100% Pair Programming
+* Pair Programming
 * Test-Driven-Development (TDD) - try to follow the ["Red-Green-Refactor" pattern](https://www.codecademy.com/articles/tdd-red-green-refactor)
