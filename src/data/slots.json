@@ -2,261 +2,201 @@
   {
     "id": "059c2162-26a9-4944-aa10-84470176b093",
     "zipCode": "51063",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-20T12:00Z",
     "endTime": "2019-01-20T15:00Z",
     "bookable": true,
     "serviceFee": {
-      "cents": 390,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 390
     }
   },
   {
     "id": "15555ee6-2b46-4633-a84a-2c44fd33a86c",
     "zipCode": "80637",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-25T11:00Z",
     "endTime": "2019-01-25T13:00Z",
     "bookable": false,
     "serviceFee": {
-      "cents": 190,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 190
     }
   },
   {
     "id": "55a1ae1d-50dd-41e5-a2a8-2226f1dc118f",
     "zipCode": "51061",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-20T14:30Z",
     "endTime": "2019-01-20T16:30Z",
     "bookable": true,
     "serviceFee": {
-      "cents": 190,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 190
     }
   },
   {
     "id": "4d4d1d10-e8ac-4ee5-8d17-0c98a5e5fc76",
     "zipCode": "51065",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-21T06:00Z",
     "endTime": "2019-01-21T13:00Z",
     "bookable": false,
     "serviceFee": {
-      "cents": 0,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 0
     }
   },
   {
     "id": "ebc8a619-7a24-4f7e-b58f-8c17a85b6bca",
     "zipCode": "80331",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-21T10:00Z",
     "endTime": "2019-01-21T14:00Z",
     "bookable": false,
     "serviceFee": {
-      "cents": 490,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 490
     }
   },
   {
     "id": "60af873c-81bf-4a08-8153-1055f055980c",
     "zipCode": "80687",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-28T14:00Z",
     "endTime": "2019-01-28T16:00Z",
     "bookable": false,
     "serviceFee": {
-      "cents": 390,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 390
     }
   },
   {
     "id": "850aaf4a-b5c4-4f8a-9dd1-a1745dfe1915",
     "zipCode": "51065",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-21T09:00Z",
     "endTime": "2019-01-21T11:00Z",
     "bookable": true,
     "serviceFee": {
-      "cents": 390,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 390
     }
   },
   {
     "id": "7b34d8e5-5c15-4b13-aa1c-bf93d80fc205",
     "zipCode": "80335",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-22T14:30Z",
     "endTime": "2019-01-22T16:30Z",
     "bookable": false,
     "serviceFee": {
-      "cents": 390,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 390
     }
   },
   {
     "id": "b7ce5119-cc44-419e-a7ce-b56762d823de",
     "zipCode": "51101",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-21T15:00Z",
     "endTime": "2019-01-21T17:00Z",
     "bookable": true,
     "serviceFee": {
-      "cents": 590,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 590
     }
   },
   {
     "id": "aae0b871-d2e8-4f31-9f1f-107ed06752ac",
     "zipCode": "51061",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-20T16:30Z",
     "endTime": "2019-01-20T19:30Z",
     "bookable": true,
     "serviceFee": {
-      "cents": 290,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 290
     }
   },
   {
     "id": "02b08189-bd8e-4567-b1d5-ba07d1ee3969",
     "zipCode": "51101",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-21T17:30Z",
     "endTime": "2019-01-21T20:30Z",
     "bookable": true,
     "serviceFee": {
-      "cents": 490,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 490
     }
   },
   {
     "id": "86016649-6acf-4e7d-85aa-58f7c5eb5a5e",
     "zipCode": "80331",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-22T09:00Z",
     "endTime": "2019-01-22T11:00Z",
     "bookable": true,
     "serviceFee": {
-      "cents": 390,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 390
     }
   },
   {
     "id": "17f694de-72a4-44f9-856f-3eb3ef94ea20",
     "zipCode": "51063",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-20T10:00Z",
     "endTime": "2019-01-20T12:00Z",
     "bookable": true,
     "serviceFee": {
-      "cents": 390,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 390
     }
   },
   {
     "id": "16335b8d-3c3b-422c-a266-3931e48fb5c1",
     "zipCode": "80333",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-22T12:00Z",
     "endTime": "2019-01-22T16:00Z",
     "bookable": true,
     "serviceFee": {
-      "cents": 390,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 390
     }
   },
   {
     "id": "e074e1b2-fd9d-442d-8073-51ab3d6434c8",
     "zipCode": "80538",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-22T15:00Z",
     "endTime": "2019-01-22T17:00Z",
     "bookable": false,
     "serviceFee": {
-      "cents": 0,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 0
     }
   },
   {
     "id": "e074e1b2-fd9d-442d-8073-51ab3d6434c8",
     "zipCode": "80538",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-22T19:00Z",
     "endTime": "2019-01-22T22:00Z",
     "bookable": true,
     "serviceFee": {
-      "cents": 90,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 90
     }
   },
   {
     "id": "c9f932a8-6d40-4cba-bf12-7a2c2c977afa",
     "zipCode": "51103",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-21T11:30Z",
     "endTime": "2019-01-21T13:30Z",
     "bookable": true,
     "serviceFee": {
-      "cents": 390,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 390
     }
   },
   {
     "id": "b12a642f-fbd1-4c30-8564-730248806b15",
     "zipCode": "51065",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-20T19:00Z",
     "endTime": "2019-01-20T21:00Z",
     "bookable": false,
     "serviceFee": {
-      "cents": 0,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 0
     }
   },
   {
     "id": "f4404385-a80d-4b3a-95c6-59ef52aaa760",
     "zipCode": "80540",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-25T07:00Z",
     "endTime": "2019-01-25T13:30Z",
     "bookable": true,
     "serviceFee": {
-      "cents": 90,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 90
     }
   },
   {
     "id": "c6de77f0-f03b-47b4-b513-1e3deb486c00",
     "zipCode": "80687",
-    "serviceType": "DELIVERY",
     "startTime": "2019-01-28T08:00Z",
     "endTime": "2019-01-28T12:00Z",
     "bookable": true,
     "serviceFee": {
-      "cents": 290,
-      "nan": "1234567",
-      "discountReasons": []
+      "cents": 290
     }
   }
 ]
