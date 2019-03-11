@@ -29,7 +29,7 @@ class App extends Component {
           <label>PLZ: </label><input type="text" name="zipCode" onChange={this.handleZipCodeChange.bind(this)} />
           <h4>Verfügbare Lieferslots:</h4>
           <p>{this.state.zipCode}</p>
-          <ul>
+          <ul className="slotlist">
             {
               slots.filter(slot => { return slot.zipCode.startsWith(this.state.zipCode)})
                    .sort((slot1, slot2) => compareAsc(new Date(slot1.startTime), new Date(slot2.startTime)))

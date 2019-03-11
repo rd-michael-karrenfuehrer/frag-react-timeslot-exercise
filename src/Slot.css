@@ -1,0 +1,14 @@
+.slot {
+  border: 1px solid darkgray;
+  width: 200px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.slot-details {
+  text-align: center;
+}
+
