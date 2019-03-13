@@ -18,7 +18,8 @@ Solve 1a) first. All other tasks may be tackled individually.
 
 #### 1) List of slots
 
-a) Display a **plain list** of all timeslots with `startTime`, `endTime`, `zipCode`, `price` and `bookable`.
+a) Display a **plain list** of all timeslots with `startTime`, `endTime`, `zipCode`, formatted `price` (e.g. 1,90 €) 
+and `bookable`.
 
 b) **Sort** the list chronologically by startTime.
 
@@ -30,13 +31,13 @@ b) Add the possibility to **toggle the bookability** of a slot by clicking on it
 
 #### 3) Styling
 
-a) Display each slot as a 200x80 px sized **rectangular shape** with start & end times and price in it (similar to 
-the visualization in our [REWE Shop](https://shop.rewe.de)). **Non-bookable slots** should instead contain a text 
-"Ausgebucht".
+a) Display each slot as a 150 x 50 px sized **rectangular shape** with start & end times and price in it (similar to 
+the visualization in our [REWE Shop](https://shop.rewe.de)). **Non-bookable slots** should instead contain a text "Ausgebucht".
+The content should be vertically and horizontally centered.
 
 b) **Arrange** the slots **horizontally** (next to each other). Make them break into the next row if the viewport is too narrow.
 
-c) Give each slot a fixed **height based on their duration**. 1hr = 100px.
+c) Give each slot a fixed **height based on their duration**. 1hr = 50px.
 
 ### Hints
 
